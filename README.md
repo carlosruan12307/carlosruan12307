@@ -14,7 +14,7 @@
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png">
 </div>
  
-  ##
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <div> 
 
