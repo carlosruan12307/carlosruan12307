@@ -1,6 +1,8 @@
 ## Falae, meu nome é Ruan, Amando programar! :O
 <div align="center">
   <a href="https://github.com/carlosruan12307">
+    
+    <div> Estou tentando iniciar minha carreira agora, Qualquer oportunidade manda para nois ai! ty! </div>
 
 
 </div>
