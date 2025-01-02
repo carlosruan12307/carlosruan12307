@@ -21,8 +21,23 @@
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
             
 
-          
-          
+ <!--  <h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=carlosruan12307&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosruan12307&show_icons=true" />
+</picture>
+</div>
+<br>      
+    -->       
           
 </div>
  
