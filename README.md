@@ -1,4 +1,8 @@
-## Falae, meu nome é Ruan, Amando programar! :O
+<header>
+  
+</header>
+<body>
+  ## Falae, meu nome é Ruan, Amando programar! :O
 <div align="center">
   <a href="https://github.com/carlosruan12307">
     
@@ -16,7 +20,8 @@
  <img align="center" alt="Rafa-CSS" height="30" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png">
   
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+          
           
 </div>
  
@@ -25,4 +30,4 @@
 <div> 
 
 </div>
-
+</body>
