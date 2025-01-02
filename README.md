@@ -1,4 +1,4 @@
-  ## Falae, meu nome é Ruan, Amando programar! :O
+## Falae, meu nome é Ruan, Amando programar! :O
 
 
 
@@ -19,7 +19,8 @@
  <img align="center" alt="Rafa-CSS" height="30" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png">
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-            
+  
+ 
 
  <!--  <h2 align="center" >⚡Stats⚡</h2>
 <br>
@@ -42,8 +43,9 @@
 </div>
  
  
- 
 <div> 
 
-</div>
 
+</div>
+<br>
+ <img alt="Rafa-CSS" height="300" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
