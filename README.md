@@ -48,4 +48,4 @@
 
 </div>
 <br>
- <img alt="Rafa-CSS" height="300" width="100%" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
+ <img alt="Rafa-CSS" height="300"  src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
