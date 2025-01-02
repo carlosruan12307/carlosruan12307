@@ -1,6 +1,8 @@
   ## Falae, meu nome é Ruan, Amando programar! :O
 <header>
   
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </header>
 <body>
 
@@ -22,6 +24,8 @@
  <img align="center" alt="Rafa-CSS" height="30" width="45" src="https://user-images.githubusercontent.com/4727/38117898-75c704e4-336c-11e8-82bb-dffd73f55e94.png">
   
             
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
           
           
 </div>
